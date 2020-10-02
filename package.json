@@ -1,0 +1,15 @@
+{
+  "name": "@ejnshtein/make-gif",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ejnshtein",
+  "bin": {
+    "make-gif": "./app.js"
+  },
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "ffmpeg-cli": "^2.7.0",
+    "yargs": "^16.0.3"
+  }
+}
